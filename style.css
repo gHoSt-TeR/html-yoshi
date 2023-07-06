@@ -1,0 +1,41 @@
+html{
+    font-size: 20px;
+    background-color: black;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Comic Neue', cursive;
+}
+
+#part1{
+    font-size: 1.5rem;
+    color: antiquewhite;
+    height: 80px;
+    width: 1280px;
+    text-align: center;
+    margin-left: 304px;
+    text-transform: uppercase;
+    
+}
+
+#part2{
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 304px;
+    font-size: 0px;
+    line-height: 0;
+    border: 5px solid white;
+    width: 1280px;
+}
+
+#part3{
+    font-size: 1rem;
+    color: antiquewhite;
+        text-align: center;
+    height: 70px;
+    width: 1280px;
+    margin-left: 304px;
+    margin-top: 0px;
+
+}
